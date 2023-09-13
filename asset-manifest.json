@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/THE-MOVIE/static/css/main.6144a989.css",
+    "main.js": "/THE-MOVIE/static/js/main.43529749.js",
+    "static/js/787.e9c2397b.chunk.js": "/THE-MOVIE/static/js/787.e9c2397b.chunk.js",
+    "index.html": "/THE-MOVIE/index.html",
+    "main.6144a989.css.map": "/THE-MOVIE/static/css/main.6144a989.css.map",
+    "main.43529749.js.map": "/THE-MOVIE/static/js/main.43529749.js.map",
+    "787.e9c2397b.chunk.js.map": "/THE-MOVIE/static/js/787.e9c2397b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6144a989.css",
+    "static/js/main.43529749.js"
+  ]
+}
